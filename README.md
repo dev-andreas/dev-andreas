@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreas gerasimow
 - 👀 I’m interested in everything related to computers.
-- 🌱 I’m currently learning Django Framework.
+- 🌱 I’m currently learning the Django Framework.
 - 📫 How to reach me: andreas.gerasimow12@gmail.com
 
 <!---
