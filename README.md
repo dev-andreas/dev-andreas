@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andreas Gerasimow
-- 👀 I’m interested in computers & maths.
+- 👀 I’m interested in computers & math.
 - 🌱 I’m currently learning the Django Framework.
 - 📫 How to reach me: andreas.gerasimow12@gmail.com
 
