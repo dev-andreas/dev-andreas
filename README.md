@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreas Gerasimow
-- 👀 I’m interested in computers & math.
-- 🌱 I’m currently learning Django REST Framework.
+- 👀 I’m interested in computers & maths.
+- 🌱 I’m currently learning JavaFX.
 - 📫 How to reach me: andreas.gerasimow12@gmail.com
 
 <!---
