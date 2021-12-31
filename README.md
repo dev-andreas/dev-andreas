@@ -19,14 +19,14 @@
 </br>
 
 ## Languages and tools 💻:
-<img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/java.svg" />
-<img align="left" alt="JavaFX" height="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/jfx.svg" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/git.svg" />
-<img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/django.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/pgsql.svg" />
-<img align="left" alt="Vue.js" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/vue.svg" />
-<img align="left" alt="Nuxt.js" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/nuxt.svg" />
-<img align="left" alt="TailwindCSS" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/tailwindcss.svg" />
+<img align="left" alt="Java" height="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/java.svg" />
+<img align="left" alt="JavaFX" height="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/jfx.svg" />
+<img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/git.svg" />
+<img align="left" alt="Django" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/django.svg" />
+<img align="left" alt="PostgreSQL" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/pgsql.svg" />
+<img align="left" alt="Vue.js" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/vue.svg" />
+<img align="left" alt="Nuxt.js" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/nuxt.svg" />
+<img align="left" alt="TailwindCSS" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/tailwindcss.svg" />
 <!---
 dev-andreas/dev-andreas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
