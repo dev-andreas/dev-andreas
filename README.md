@@ -18,7 +18,7 @@
 </br>
 </br>
 
-## Languages and tools💻:
+## Languages and tools 💻:
 <img align="left" alt="Java" height="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/java.svg" />
 <img align="left" alt="JavaFX" height="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/jfx.svg" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/git.svg" />
