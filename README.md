@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andreas Gerasimow
-- 👀 I’m interested in computers & maths.
-- 🌱 I’m currently learning the Linux Kernel.
+- 👀 Interested in computers & maths.
+- 🌱 Currently learning the Linux Kernel.
 - 📫 How to reach me: andreas.gerasimow12@gmail.com
 
 </br>
