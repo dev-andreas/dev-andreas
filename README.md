@@ -19,20 +19,14 @@
 </br>
 
 ## Languages and tools 💻:
-<div class="flex">
-  <img alt="Java" align="left" height="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/java.svg" />
-  <img alt="JavaFX" align="left" height="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/jfx.svg" />
-  <img alt="Python" align="left" height="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/python.svg" />
-  <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img alt="TailwindCSS" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/tailwindcss.svg" />
-  <img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img alt="Git" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/git.svg" />
-  <img alt="Django" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/django.svg" />
-  <img alt="PostgreSQL" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/pgsql.svg" />
-  <img alt="Vue.js" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/vue.svg" />
-  <img alt="Nuxt.js" align="left" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/nuxt.svg" />
-</div>
+<img align="left" alt="Java" height="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/java.svg" />
+<img align="left" alt="JavaFX" height="30px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/jfx.svg" />
+<img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/git.svg" />
+<img align="left" alt="Django" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/django.svg" />
+<img align="left" alt="PostgreSQL" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/pgsql.svg" />
+<img align="left" alt="Vue.js" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/vue.svg" />
+<img align="left" alt="Nuxt.js" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/nuxt.svg" />
+<img align="left" alt="TailwindCSS" width="20px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/tailwindcss.svg" />
 <!---
 dev-andreas/dev-andreas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
