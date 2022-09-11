@@ -10,7 +10,6 @@
 [<img align="left" alt="Andreas Gerasimow on LinkedIn" width="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="Andreas Gerasimow on Instagram" width="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/instagram.svg" />][instagram]
 
-[website]: https://andreasgera.de
 [instagram]: https://www.instagram.com/real_gera_/
 [linkedin]: https://www.linkedin.com/in/andreas-gerasimow-341a551b2/
 
