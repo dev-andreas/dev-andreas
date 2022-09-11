@@ -6,7 +6,6 @@
 </br>
 
 ## How to connect with me 👇:
-[<img align="left" alt="andreasgera.de" width="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/globe-alt.svg" />][website]
 [<img align="left" alt="Andreas Gerasimow on LinkedIn" width="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/linkedin.svg" />][linkedin]
 [<img align="left" alt="Andreas Gerasimow on Instagram" width="40px" src="https://raw.githubusercontent.com/dev-andreas/dev-andreas/main/instagram.svg" />][instagram]
 
