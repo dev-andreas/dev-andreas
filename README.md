@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Andreas Gerasimow
 - 👀 Interested in computers & maths.
-- 🌱 Currently learning the Linux Kernel.
 - 📫 How to reach me: andreas.gerasimow12@gmail.com
 
 </br>
