@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Andreas Gerasimow
 - 👀 Interested in computers & maths.
-- 📫 How to reach me: andreas.gerasimow12@gmail.com
+- 📫 How to reach me: andreas@gerasimow.de
 
 </br>
 
