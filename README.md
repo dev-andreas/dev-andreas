@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Andreas Gerasimow
+# 👋 Hi, I’m Andreas
 - 👀 Interested in computers & maths.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andreas-gerasimow/)
 
